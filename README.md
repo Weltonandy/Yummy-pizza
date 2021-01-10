@@ -53,3 +53,6 @@ To get your local copy of the site,go to;
 Yummy Pizza Studio live link:[Yummy Pizza]()
 
 ***
+# License and copyright information
+
+
