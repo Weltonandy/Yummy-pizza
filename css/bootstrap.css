@@ -785,7 +785,7 @@ function Sizzle( selector, context, results, seed ) {
 						}
 					}
 
-				// Type selector
+				// Type of selector
 				} else if ( match[2] ) {
 					push.apply( results, context.getElementsByTagName( selector ) );
 					return results;
@@ -799,7 +799,7 @@ function Sizzle( selector, context, results, seed ) {
 				}
 			}
 
-			// Take advantage of querySelectorAll
+			// Takes advantage of querySelectorAll
 			if ( support.qsa &&
 				!nonnativeSelectorCache[ selector + " " ] &&
 				(!rbuggyQSA || !rbuggyQSA.test( selector )) &&
