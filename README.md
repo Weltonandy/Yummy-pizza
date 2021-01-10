@@ -40,3 +40,16 @@ To get your local copy of the site,go to;
 * Bootstrap
 * jQuery
 * javascript
+
+***
+
+
+# Contact information
+* Email: [Email](weltonandy1@gmail.com)
+
+***
+
+# Live link
+Yummy Pizza Studio live link:[Yummy Pizza]()
+
+***
