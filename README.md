@@ -49,8 +49,11 @@ To get your local copy of the site,go to;
 
 ***
 
+# Screenshot
+![css](p1/p1.png)
+
 # Live link
-Yummy Pizza Studio live link:[Yummy Pizza]()
+Yummy Pizza Studio live link:[Yummy Pizza](https://weltonandy.github.io/Yummy-pizza/)
 
 ***
 # License and copyright information
