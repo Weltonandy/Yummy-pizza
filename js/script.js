@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $("#order-details").hide();
   $("#deliver").hide();
-  // Business Logic
+  // The Business Logic
   var totalPriceArray = [];
   function Order(size, crust, toppings, amount) {
     this.size = size;
