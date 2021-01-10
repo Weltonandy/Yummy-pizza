@@ -3394,7 +3394,7 @@ jQuery.Callbacks = function( options ) {
 			},
 
 			// Disable .fire
-			// Also disable .add unless we have memory (since it would have no effect)
+			// Also disable .add unless we have memory (since it would have no effect on it)
 			// Abort any pending executions
 			lock: function() {
 				locked = queue = [];
