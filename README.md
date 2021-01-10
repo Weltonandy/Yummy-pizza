@@ -82,6 +82,7 @@ SOFTWARE.
 ***
 # For Collaborations
 For any collaborations or updations please contact me via email.
+(weltonandy1@gmail.com)
 ***
 
 
